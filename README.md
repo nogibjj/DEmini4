@@ -1,6 +1,6 @@
 
-
-
+[![CI](https://github.com/nogibjj/DEmini4/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/DEmini4/actions/workflows/ci.yml)
+[![CI](https://github.com/nogibjj/DEmini4/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/DEmini4/actions/workflows/ci.yml)
 
 # GitHub Actions Matrix Build for Multiple Python Versions
 ## Purpose of project
@@ -17,9 +17,6 @@ The purpose of this project is to test multiple python versions and environments
 2. Lint code `make lint`
 3. Test code `make test`
 
-## Github actions with matrix strategy 
-
-
-    
+  
 ## References 
 https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
